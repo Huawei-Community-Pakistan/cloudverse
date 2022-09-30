@@ -19,7 +19,7 @@ Choose both, make a pull request for your work and wait for it to be merged!!
 - Fork this repository (Click the Fork button on the top right of this page, click your Profile Image)
 - Clone your forked down repository to your local machine.
 ```
-https://github.com/Huawei-Community-Pakistan/cloudverse.git
+git clone https://github.com/Huawei-Community-Pakistan/cloudverse.git
 ```
 - Create a branch
 ```

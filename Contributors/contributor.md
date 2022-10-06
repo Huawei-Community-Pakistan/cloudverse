@@ -1,9 +1,9 @@
-##### Name: *Your name here!*
+##### Name: *Farhan Ashraf*
 
-##### Email: *Your email here!*
+##### Email: *mriceflame@protonmail.com*
 
-##### Github Username: *[Your Github username here!](Github account link)*
+##### Github Username: *FarhanAshrafDev*
 
-##### Your Favourite Langugage: *Your favourite langauge here!*
+##### Your Favourite Langugage: *Python, Cpp*
 
-##### A line about your contribution: *Description about what you contributed about cloud, what your resource was*
+##### A line about your contribution: *Just adding my profile in contributor.md*
